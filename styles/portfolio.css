@@ -1,0 +1,57 @@
+
+/*nav-styles*/
+nav{
+    margin-top: 50px;
+    margin-right: 140px;
+    margin-left: 140px;
+    flex-shrink: 0; 
+    background-image: url('../resources/Banner\ Image.png');
+    background-repeat: no-repeat;
+}
+.nav-titale{
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+padding-top: 177px;
+}
+.nav-disc{
+    text-align: center;
+    width: 632px;
+    color: #FFF;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+padding-right: 344px;
+padding-left:344px;
+padding-bottom:177px ;  
+}
+/*section-styles*/
+.offer{
+    width: 1600px;
+    height: 7335px;
+    text-align: center;
+}  
+     .off{color: #F00;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;
+       }
+    .our{
+        color: #F00;
+text-align: center;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+
+ }
+    .valo{
+        padding-top: 5px;
+        color: #070211;
+text-align: center;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+    }
