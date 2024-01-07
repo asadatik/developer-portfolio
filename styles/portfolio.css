@@ -29,9 +29,7 @@ padding-left:344px;
 padding-bottom:177px ;  
 }
 /*section-styles*/
-.offer{
-    width: 1600px;
-    height: 7335px;
+.offer{ 
     text-align: center;
 }  
      .off{color: #F00;
@@ -54,4 +52,15 @@ text-align: center;
 font-size: 48px;
 font-style: normal;
 font-weight: 700;
-    }
+ } .pic{
+    text-align: center;
+ }
+ .nigth{
+    display: flex;
+    margin: auto;
+    width: 1320px;
+height: 600px;
+flex-shrink: 0;
+    text-align: center;
+    background-image: url(../resources/Vectorrr.png );
+ }
