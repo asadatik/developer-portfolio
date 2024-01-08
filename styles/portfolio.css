@@ -72,7 +72,7 @@ flex-shrink: 0;
     font-style: normal;
     font-weight: 900;
     line-height: 88px; /* 137.5% */
-    letter-spacing: 7.04px;idth: 642px;
+    letter-spacing: 7.04px;
     padding-left: 120px;
     padding-top: 126px;
  }
@@ -110,9 +110,7 @@ text-align: left;
        rgba(242, 234, 231, 1),
         rgba(252, 250, 246, 1),
      rgba(255, 255, 252, 1) ;
-     <svg xmlns="http://www.w3.org/2000/svg" width="143" height="142" viewBox="0 0 143 142" fill="none">
-     <path style="mix-blend-mode:multiply" d="M121.697 121.239C149.354 93.5823 149.354 48.7414 121.697 21.0844C94.0395 -6.57266 49.1986 -6.57265 21.5416 21.0844C-6.11544 48.7414 -6.11545 93.5823 21.5416 121.239C49.1986 148.896 94.0395 148.896 121.697 121.239Z" fill="url(#paint0_radial_114_6311)"/>
-     <defs>}
+  }
  /*location styles*/
  .VEJAL{
   color: #F00;
@@ -147,4 +145,58 @@ padding-bottom: 200px;
     border-radius: 10px;
     border-color:#FFF;
 background: #F00;
+}
+/*pro-section-styles*/
+.pro-hero{
+max-width: 1600px;
+max-height:7335px;
+background: #FFF;
+display: flex;
+justify-content:space-between
+}
+.BEST{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+.coming{
+    color: #070211;
+font-size: 60px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+margin-top: 16px;
+margin-bottom: 10px;
+}
+.Dolor{
+    width: 393px;
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+}
+.chobi{
+    background: url(<path-to-image>), lightgray -91.279px 0px / 150.038% 100% no-repeat;    
+    width: 364.844px;
+    height: 364.844px;
+    flex-shrink: 0;
+    border-radius: 463px;
+border: 15px solid #F00;}
+.para{
+    color: #F00;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.dlr{
+    width: 276px;
+    height: 100px;
+    color: rgba(7, 2, 17, 0.60);
+font-size: 20px;
+font-weight: 400;
+line-height: 32px; /* 160% */
 }
