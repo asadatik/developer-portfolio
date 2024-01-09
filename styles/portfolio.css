@@ -217,62 +217,42 @@ line-height: 32px; /* 160% */
     height: 7335px;  
     margin-top: 600px;
 }
-/* holiday section */
-.FUNCTIONAL{
-    color: #070211;
+
+/*  pro-port  */
+#GIFTS{
+    color: #F00;
     font-size: 24px;
+    font-style: normal;
     font-weight: 500;
-     padding: 0px;
-     text-align: center;
-     padding-top: 100px;
-     padding-bottom:0px;
-      
+    line-height: normal;
+    padding-top: 127px;
+    margin: 0px;
 }
-.Sale{color: #070211;
-    font-family: Merriweather;
-    font-size: 72px;
+#wow{
+    color: #070211;
+    font-size: 48px;
+    font-style: normal;
     font-weight: 900;
-    text-align:center;
-    padding-top: 16px;
-    margin: 0px;  
+    line-height: normal;
+    text-transform: capitalize;
+    margin:0px;
+    padding-top: 16px; 
 }
-#lal{
-   color: #F00; 
-   font-size: 70px;
-   margin: 0px;
+
+#gift-describ{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    width: 900px;   
+    height: 64px;
 }
-.lady{
-    position: relative;
-    width: 429px;
-    height: 433px;
-    border-radius: 16px 16px 0px 0px;
-   padding-top: 64px; 
-   float: right; 
-   padding: right 50px; ;                  
+.six-pic{
+ display: flex;
+ padding-top: 24px;  
 }
-.circle{
-    position: absolute;
-    width: 200px;
-    height: 200px;
-    border-radius: 50px;
-    text-align: center;
-    margin-top: 150px;
-    left:900px;
-    float: right;
-    
-}
-.discount{
-    fill: #F00;
-}
-.carpet{
-    position: relative;
-}
-#red-carpet{
-    position: relative;
-    border: 16px;
-}
-#box{
-    position:absolute;
-    top: 64px;
-    left:0px;
+.six-pic div{
+    padding-right: 24px;
+    border-radius: 16px;
+width: 424px;
+height: 450px;
 }
