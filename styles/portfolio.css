@@ -147,20 +147,25 @@ padding-bottom: 200px;
 background: #F00;
 }
 /*pro-section-styles*/
+
 .pro-hero{
-max-width: 1600px;
-max-height:7335px;
 background: #FFF;
 display: flex;
 justify-content:space-between
 }
 .BEST{
+    margin-right: 0px;
     color: #F00;
     font-size: 24px;
-    font-weight: 500;
+   font-weight: 500;
 
 }
+.best-ofr{
+      text-align: left;
+    margin-right: 0px;
+}
 .coming{
+
     color: #070211;
 font-size: 60px;
 font-style: normal;
@@ -171,6 +176,7 @@ margin-top: 16px;
 margin-bottom: 10px;
 }
 .Dolor{
+
     width: 393px;
     color: rgba(7, 2, 17, 0.60);
 font-family: Inter;
@@ -179,10 +185,12 @@ font-style: normal;
 font-weight: 400;
 }
 .chobi{
-    background: url(<path-to-image>), lightgray -91.279px 0px / 150.038% 100% no-repeat;    
+    padding: 30px;
+    background: url(<path-to-image>), rgb(246, 244, 244) -91.279px 0px / 150.038% 100% no-repeat;    
     width: 364.844px;
     height: 364.844px;
     flex-shrink: 0;
+    border-radius:300px;
     border-radius: 463px;
 border: 15px solid #F00;}
 .para{
@@ -199,4 +207,72 @@ line-height: normal;
 font-size: 20px;
 font-weight: 400;
 line-height: 32px; /* 160% */
+}
+.new-year{
+
+    margin-left: 0px;
+}
+.prblm{
+    width: 1600px;
+    height: 7335px;  
+    margin-top: 600px;
+}
+/* holiday section */
+.FUNCTIONAL{
+    color: #070211;
+    font-size: 24px;
+    font-weight: 500;
+     padding: 0px;
+     text-align: center;
+     padding-top: 100px;
+     padding-bottom:0px;
+      
+}
+.Sale{color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    text-align:center;
+    padding-top: 16px;
+    margin: 0px;  
+}
+#lal{
+   color: #F00; 
+   font-size: 70px;
+   margin: 0px;
+}
+.lady{
+    position: relative;
+    width: 429px;
+    height: 433px;
+    border-radius: 16px 16px 0px 0px;
+   padding-top: 64px; 
+   float: right; 
+   padding: right 50px; ;                  
+}
+.circle{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+    text-align: center;
+    margin-top: 150px;
+    left:900px;
+    float: right;
+    
+}
+.discount{
+    fill: #F00;
+}
+.carpet{
+    position: relative;
+}
+#red-carpet{
+    position: relative;
+    border: 16px;
+}
+#box{
+    position:absolute;
+    top: 64px;
+    left:0px;
 }
